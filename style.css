@@ -1,0 +1,272 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    line-height: 1.5;
+        
+    }
+body{
+    padding: 0px !important;
+    margin: 0px !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media(max-width: 700px){
+    .items, .whole{
+        width: 100%;
+        margin: bottom 30px;
+    }
+}
+ .overview{
+    padding: 20px;
+    text-align: right;
+    padding-bottom: 20px;
+
+}
+nav a:hover{
+    background-color: rgb(255, 115, 0) ;
+}
+ 
+.final{
+  background-color: darkolivegreen;
+}
+.farm{
+    margin-top: 3%;
+}
+.tin{
+    background-image: url(image/b.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1{
+    margin-bottom: 3%;
+    font-size: xx-large;
+}
+h2{
+    margin-bottom: 3%;
+
+}
+
+.write input{
+    padding-bottom: 1%;
+    padding-right: 1%;
+    margin-bottom: 2%;
+}
+.whole{
+    background-color: darkseagreen;
+}
+button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+}
+body{
+   
+    margin: 0px!important;    
+    padding: 0px!important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-image: url(image/b.jpg);
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-size: 100% 100%;
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: darkolivegreen;
+    margin-top: 3%;
+}
+.pic img{
+    width:100%;
+    height:100%;
+}
+.banner{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    
+    
+}
+.items img{
+    width: 50%;
+    height: 40%;
+    margin-right: 3%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    border-radius: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.contents img{
+    width:3%; 
+    height:10%;
+}
+.credit img{
+    width:5%; 
+    height:10%;
+    border-radius: 10px;
+}
+
+
+
+.contents{
+    background-color: rgb(34, 212, 34) ;
+   margin: 3%;
+   padding-top: 3%;
+   text-align: center;
+    padding: auto;
+    border-radius: 10px;
+    
+}
+.brief{
+    display: flex;
+    
+}
+.tools{
+    background-color:  rgb(34, 212, 34);
+   margin-left: 3%;
+   text-align: center;
+   margin-right: 5%;
+   margin-bottom: 3%;
+   padding-top: 3%;
+   border-radius: 20px;
+   border-top-left-radius: 30px;
+   border-top-right-radius: 30px;
+}
+.tools img{
+   
+}
+.contents img{
+    width: 20%;
+    height: 20%;
+}
+.lower{
+    display: flex;
+    margin-bottom: 3%;
+   
+}
+
+.items{
+    width: 20%;
+    background-color: rgb(34, 212, 34);
+    text-align: center;
+    padding: auto;
+    border-radius: 10px;
+    margin-left: 3%;
+}
+nav img{
+    width: 60px;
+    height: 60px;
+    float: left; 
+    border-radius: 50px;
+    padding-bottom: 10px;
+
+}
+.last{
+    margin-left: 70%;
+    display: flex;
+    margin-top: 5%;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 3%;
+}
+/* nav{
+    background-color:green;
+    padding: 20px;
+    text-align: right;
+    padding-bottom
+nav a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: #fff;
+
+}
+nav a:hover{
+    color:rgb(230, 139, 29);
+    border-bottom: bisque solid,5px;
+}
+.upper{
+
+    
+}
+.description{
+    font-size: 30px;
+    
+}
+.down{
+    display: flex;
+}
+.Outreach{
+    color: pink;
+    padding: 30px;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+
+}
+.contents{
+    margin-left: 20%;
+}
+.contents img{
+    width: 20%;
+    height: 25%;
+}
+
+.Outreach,h2{
+    text-align: center;
+    text-decoration: none;
+}
+.Outreach img{
+    
+    padding: auto;
+    justify-content: center;
+
+    
+    
+
+    
+}
+.location{
+    text-align: center;
+    padding: auto;
+    width: 10px;
+    margin-bottom: 0;
+    height: 10px;
+
+}
+
+form{
+    text-align: center;
+    list-style: none;
+}
+
+input{
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    width: 30%;
+}
+button{
+    color: white;
+    font-weight: bold;
+background-color: green;
+}
+
+.footer{
+    padding: 10px;
+    /* background-color: green; */
+    /* margin-top: 8%;
+    margin-right: 70%; */
+    
+
+
+
+
